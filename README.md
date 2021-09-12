@@ -1,2 +1,2 @@
 # socin-move-brick
-Try to set up your own project
+Try to build a project of my own
